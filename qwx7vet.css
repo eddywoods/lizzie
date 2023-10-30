@@ -1,0 +1,31 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * kudryashev-d-contrast:
+ *   - http://typekit.com/eulas/00000000000000007735e0ca
+ * kudryashev-d-contrast-sans:
+ *   - http://typekit.com/eulas/00000000000000007735e0d1
+ *
+ * © 2009-2023 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2021-06-08 11:09:33 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"kudryashev-d-contrast";
+src:url("af/edcbe6/00000000000000007735e0ca/30/l") format("woff2"),url("af/edcbe6/00000000000000007735e0ca/30/d") format("woff"),url("af/edcbe6/00000000000000007735e0ca/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"kudryashev-d-contrast-sans";
+src:url("af/254a66/00000000000000007735e0d1/30/l") format("woff2"),url("af/254a66/00000000000000007735e0d1/30/d") format("woff"),url("af/254a66/00000000000000007735e0d1/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.tk-kudryashev-d-contrast { font-family: "kudryashev-d-contrast",sans-serif; }
+.tk-kudryashev-d-contrast-sans { font-family: "kudryashev-d-contrast-sans",sans-serif; }
